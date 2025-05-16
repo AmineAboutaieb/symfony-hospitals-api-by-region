@@ -1,4 +1,4 @@
-### URL de base : http://symfony.hospitals.api.frmjj-app.ma/
+### URL de base : https://symfony.hospitals.api.frmjj-app.ma/
 
 ### routes : 
 - /api/regions (liste des régions)
